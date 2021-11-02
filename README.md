@@ -14,7 +14,7 @@ First of all your inputted message is converted into binary, then the program lo
 # Does The Image Containing The Message Look Similar To The Orginal?  
 Yes. It is practically impossible to see any difference between the two with the human eye. For example:  
 ![alt text](https://github.com/Procedurally-Generated-Human/Steganography-App/blob/main/comparison.jpeg) 
-right: monalisa--left: monalisa + the entire text of alice in wonderland
+left: monalisa and right: monalisa + the entire text of alice in wonderland. 
   
 # How Can I Use This Program?
 Copy or clone all the files in this repository to a folder then run:
